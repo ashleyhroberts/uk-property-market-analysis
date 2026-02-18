@@ -19,4 +19,5 @@ GROUP BY
 	tenure
 ORDER BY
 	postcode_area,
+
 	tenure
