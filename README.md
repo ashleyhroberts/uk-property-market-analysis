@@ -5,8 +5,8 @@ This project explores how property prices behave across postcode areas, property
 
 💼 Deliverables
 
-• [Tableau Public Dashboard](https://public.tableau.com/app/profile/ashley.roberts5700/viz/DAA_InternshipFinal/Q1_Dashboard?publish=yes)  
-• [Full Written Report (PDF)](https://github.com/ashleyhroberts/uk-property-market-analysis/blob/main/Snow%20Data%20Science%20Internship%20-%20Team%205_%20UK%20Properties%20Analysis%20Writeup.pdf)  
+## [Tableau Public Dashboard](https://public.tableau.com/app/profile/ashley.roberts5700/viz/DAA_InternshipFinal/Q1_Dashboard?publish=yes)  
+## [Full Written Report (PDF)](https://github.com/ashleyhroberts/uk-property-market-analysis/blob/main/Snow%20Data%20Science%20Internship%20-%20Team%205_%20UK%20Properties%20Analysis%20Writeup.pdf)  
 • All SQL queries used in this analysis are organized by question in the /02_analysis_questions/ folder, with data preparation scripts in /01_data_prep/.
 
 🎯 Project Focus
