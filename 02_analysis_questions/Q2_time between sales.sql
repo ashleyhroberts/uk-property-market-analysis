@@ -28,8 +28,10 @@ SELECT
             ORDER BY ((next_sale_date - sale_date) * 1.0) / 365.25
         ) AS NUMERIC
         ),1
-    ) AS median_years_to_next_sale
+    ) AS median_years_to_next_sale,
+     COUNT(sale_date) AS resale_pairs_count
 FROM sales_with_next
 WHERE next_sale_date IS NOT NULL
 GROUP BY property_type, postcode_area, postcode_area_name
 ORDER BY property_type, postcode_area, postcode_area_name;
+
