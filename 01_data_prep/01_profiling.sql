@@ -1,4 +1,4 @@
--- How many rows in each dataset? properties_main: price_history: 
+-- How many rows in each dataset? properties_main: 22,258 price_history: 51,276
 SELECT 
 	'properties_main' AS table_name, 
 	COUNT(*) AS rows
